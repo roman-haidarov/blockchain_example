@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.3)
+    digest (3.1.1)
+    method_source (1.0.0)
+    pp (0.4.0)
+      prettyprint
+    prettyprint (0.1.1)
+    pry (0.14.2)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  digest
+  pp
+  pry
+
+BUNDLED WITH
+   2.2.3
